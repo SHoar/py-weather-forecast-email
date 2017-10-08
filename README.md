@@ -33,9 +33,9 @@ So, to execute--
 On Windows:
 <ol>
   <li>double-click <code>weather.bat</code> from the File Explorer, or run it from the commmand prompt in Powershell or the MS-DOS prompt.</li>
-
+</ol>
 On Linux/ MacOS:
-
+<ol>
   <li>From the terminal, run <code>bash weather.sh</code> or <code>sh weather.sh</code></li>
 </ol>
 
