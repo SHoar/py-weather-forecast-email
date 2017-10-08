@@ -7,10 +7,10 @@ You must have Python 3.4+ installed to run this application. The development tes
 
 To clone this app, enter these commands:
 
-<block>
+<code>
   git clone https://github.com/SHoar/py-weather-forecast-email.git<br/>
   cd py-weather-forecast-email
-</block>
+</code>
 
 This email smtp handler sends email with TLS encryption.  If you are using GMail to send your emails, you must either change your sender email account to 'allow less secure apps'
 or use App Passwords, but this application repo is using the former method.
